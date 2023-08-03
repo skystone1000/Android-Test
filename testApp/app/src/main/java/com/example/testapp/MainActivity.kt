@@ -13,7 +13,5 @@ class MainActivity : AppCompatActivity() {
         // Second Commit
 
         // Third Commit
-
-        // Fourth Commit
     }
 }
